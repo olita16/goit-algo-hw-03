@@ -1,0 +1,8 @@
+# Ігнорування середовища та службових директорій
+venv/
+.vscode/
+__pycache__/
+dist/
+testdir/
+*.pyc
+*.log
